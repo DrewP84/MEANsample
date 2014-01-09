@@ -1,0 +1,4 @@
+MEANsample
+==========
+
+MEAN init sample
